@@ -13,7 +13,6 @@ def printMatrics(no, char="*"):
         for _col in range(no):
             print(char, end=" ")
         print()
-        
       
 
 def main():
